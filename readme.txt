@@ -41,6 +41,9 @@ Yes.
 
 == Changelog ==
 
+= 2.2 =
+Fixed Jquery Conflicts in admin
+
 = 2.0 =
 Added Filters to Filter Posts having Featured Image and Not Having Featured Image
 
