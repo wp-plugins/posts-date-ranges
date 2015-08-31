@@ -1,7 +1,7 @@
 === Posts Date Ranges ===
 Contributors: jaytesh
 Tags: filters, post filters, date range filters, admin filters
-Stable tag: 2.0
+Stable tag: 2.2
 Requires at least: 3.0
 Tested up to: 3.4
 License: GPLv2 or later
