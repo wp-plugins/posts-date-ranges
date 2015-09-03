@@ -1,5 +1,6 @@
 === Posts Date Ranges ===
 Contributors: jaytesh
+Donate link: http://www.jaytesh.com/donate/
 Tags: filters, post filters, date range filters, admin filters
 Stable tag: 2.2
 Requires at least: 3.0
